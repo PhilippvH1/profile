@@ -1,0 +1,93 @@
+/* Here goes your CSS */
+/* Here goes your CSS */
+body {
+  background-color: #EBEBEB;
+  font-family: 'Open Sans', sans-serif;
+  color: #7d7d7d;
+  font-size: 15px;
+  line-height: 1.6em;
+}
+
+h1,
+h2,
+h3{
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+  font-size: 21px;
+  color: #DD5555;
+}
+
+h2{
+  font-size: 19px;
+}
+
+h3{
+  font-size: 17px;
+}
+
+a{
+  color: #ccc;
+  text-decoration: none;
+}
+a:hover{
+  color: #000;
+}
+
+p{
+  text-align: justify;
+}
+
+ul{
+    display: block;
+    list-style-type: disc;
+}
+
+
+.container{
+  width: 500px;
+  margin: 0 auto;
+}
+
+.card {
+  text-align: center;
+  background-color: #fff;
+  padding: 30px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+
+.circle{
+  border-radius: 50%;
+}
+
+.btn-red{
+  background-color: #DD5555;
+  padding: 10px;
+  border-radius: 4px;
+  color: #fff;
+}
+
+.list-inline{
+  padding-left: 0px;
+}
+
+.text-center{
+  text-align: center;
+}
+
+.list-inline li {
+    display: inline-block;
+    padding: 20px;
+}
+
+#img-profile{
+  border: 3px solid #cccccc;
+}
+
+#movies td{
+  padding: 10px;
+}
